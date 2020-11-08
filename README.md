@@ -1,3 +1,7 @@
+First project of the udemy course : https://www.udemy.com/course/modern-react-front-to-back/
+
+Implemented with context api and hooks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
